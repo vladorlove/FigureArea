@@ -1,0 +1,16 @@
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\FigAreasLibTests.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\FigAreasLibTests.pdb
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\FigAreasLib.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\FigAreasLib.pdb
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\obj\Debug\FigAreasLibTests.csproj.AssemblyReference.cache
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\obj\Debug\FigAreasLibTests.csproj.CoreCompileInputs.cache
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\obj\Debug\FigAreasLibTests.csproj.CopyComplete
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\obj\Debug\FigAreasLibTests.dll
+\\Lotus\d\working\source\repos\FigAreas\FigAreasLibTests\obj\Debug\FigAreasLibTests.pdb
